@@ -23,7 +23,7 @@ RESUMEN DE TECNOLOGÍAS Y CONOCIMIENTOS IMPLEMENTADO SOBRE ESTE PROYECTO:
 -Metodología Scrum
 -Kanban
 
-![Du vine](https://user-images.githubusercontent.com/91988840/232225126-1e103f34-2172-4c6b-8ea3-a0003e817784.png)
+https://lucianogelvez.github.io/Proyecto-E-commerce-DU-VINE--github.io/index.html
 
 
 
